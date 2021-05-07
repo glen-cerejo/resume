@@ -33,18 +33,16 @@ sidebar:
       - idiom: Marathi
         level: Mother Tounge
 
-      - idiom: Spanish
+      - idiom: Hindi
         level: Native
 
     interests:
-      - item: Climbing
+      - item: Driving
         link:
 
-      - item: Snowboarding
+      - item: Electronics
         link:
 
-      - item: Cooking
-        link:
 
 career-profile:
     title: Career Profile
@@ -56,9 +54,9 @@ career-profile:
       Donec quam felis, ultricies nec, pellentesque eu.
       Second paragraph if required.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: BE in Computer 
+      university: University of Mumbai
+      time: 2005-2010
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -67,9 +65,9 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: HSC Science
+      university: Board of Maharashtra
+      time: 2005
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -78,10 +76,21 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
+    - degree: SSC Science
+      university: Board of Maharashtra
+      time: 2003
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point  
 experiences:
     - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+      time: Apr 2018 - Present
+      company: Tata Consultancy Services
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -94,9 +103,9 @@ experiences:
         architecto beatae vitae dicta sunt explicabo.
           - Bullet point
           - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+    - role: Senior Software Developer
+      time: Jan 2013 - Apr 2018
+      company: Idealake Information Technologies Private Limited, Mumbai 
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -105,9 +114,9 @@ experiences:
         pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Software Developer
+      time: Feb 2011 - Jan 2013
+      company: Vertex Systems
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
