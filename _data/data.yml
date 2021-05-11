@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Glen Cerejo
-    tagline: Full Stack Developer
+    tagline: Full Stack Developer(.Net)
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -47,12 +47,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Software Developer with 10 years of experience in Software Development, Application Maintenance, and Project execution. 
+      Experiences on .Net application development with Agile Methodology. Experience on DevOps and Azure. Extensive experience in Development, Implementation, Code Review, Defect analysis & Fixing.
+      
 education:
     - degree: BE in Computer 
       university: University of Mumbai
@@ -65,7 +62,7 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-    - degree: HSC Science
+    - degree: HSC (Science)
       university: Board of Maharashtra
       time: 2005
       details: |
