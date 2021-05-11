@@ -4,7 +4,7 @@
 title: Glen Cerejo
 url: 'http://webjeda.com'
 baseurl: '/resume' #change it according to your repository name
-description: Glen Cerejo | Full Stack Developer | Microsoft Technologies
+description: Glen Cerejo | Full Stack Developer(.Net) | Microsoft Technologies
 keywords : Glen Cerejo,Full Stack, Developer,Microsoft, Azure, Angular,Dotnet, dotnet core,SQL, Jquery,HTML,CSS
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: ceramic # blue turquoise green berry orange ceramic
