@@ -86,18 +86,27 @@ education:
           - Bullet point  
 experiences:
     - role: Lead Developer
-      time: Apr 2018 - Present
+      time: April 2018 - Present
       company: Tata Consultancy Services
       details: |
-        Lead developer in an Agile team spread across the gloab, which works on delivering Innovative digital solutions based on machine learning. 
-          - Responsible for Architecture designing and development of Web Application.
-          - Worked on dotnet core, Angular.
-          - Worked on Azure Serices like WebApp, Data Factory, Blob Storage, FunctionApp, Logic App.
-          - Exposer on DevOps(CI/CD).
+        Workes as a Lead developer in an Agile team which is  spread across the gloab and delivers Innovative digital solutions based on machine learning. 
+          - Spearheaded the architecture design and development of multiple Single Page Web Applications. Created the front end in Angular and Web API in .net core with code first approach using entity framework.
+          - Developed Web Applications using MVC and Razor Pages.
+          - Leveraged Microsoft Azure for various services like App hosting, function apps, Data Factory, logic apps, Data Storage.
+          - Developed a Machine learning model for accurately predicting the On-Time Delivery using Azure Machine Learning Studio and Data Factory
+          - Using Azure DevOps to manage CI/CD and keeping a track of User Story and Backlog items in an agile environment.
         
     - role: Senior Software Developer
-      time: Jan 2013 - Apr 2018
+      time: January 2013 - August 2016  and  January 2017 - April 2018
       company: Idealake Information Technologies Private Limited, Mumbai 
+      details: |
+        Worked as a Senior Software developer in a team to develope multiple websites.
+          - Developed websites using a CMS (Sitefinity), ASP.Net, MVC and SQL.
+          - Bullet point
+          
+    - role: Software Developer
+      time: September 2016 - January 2017
+      company: Bassein Catholic Co-operative Bank 
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -105,8 +114,7 @@ experiences:
         nascetur ridiculus mus. Donec quam felis, ultricies nec,
         pellentesque eu, pretium quis, sem.
           - Bullet point
-          - Bullet point
-    - role: Software Developer
+          - Bullet point    - role: Software Developer
       time: Feb 2011 - Jan 2013
       company: Vertex Systems
       details: |
