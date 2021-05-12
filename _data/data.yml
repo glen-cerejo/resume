@@ -86,7 +86,7 @@ education:
           - Bullet point  
 experiences:
     - role: Lead Developer
-      time: April 2018 - Present
+      time: Apr 2018 - Present
       company: Tata Consultancy Services
       details: |
         Workes as a Lead developer in an Agile team which is  spread across the gloab and delivers Innovative digital solutions based on machine learning. 
@@ -97,34 +97,31 @@ experiences:
           - Using Azure DevOps to manage CI/CD and keeping a track of User Story and Backlog items in an agile environment.
         
     - role: Senior Software Developer
-      time: January 2013 - August 2016  and  January 2017 - April 2018
+      time: Jan 2013 - Aug 2016  and  Jan 2017 - Apr 2018
       company: Idealake Information Technologies Private Limited, Mumbai 
       details: |
         Worked as a Senior Software developer in a team to develope multiple websites.
-          - Developed websites using a CMS (Sitefinity), ASP.Net, MVC and SQL.
-          - Bullet point
-          
+          - Developed websites using a CMS (Sitefinity), ASP.Net MVC and SQL.
+          - Integration with payment gateways.
+          - Integration with CAMS for Mutual Fund websites. 
+                    
     - role: Software Developer
-      time: September 2016 - January 2017
+      time: Sep 2016 - Jan 2017
       company: Bassein Catholic Co-operative Bank 
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point    - role: Software Developer
+        Worked as Software developer in a banking organization.
+          - Deveoped and maintained Applications in ASP.NET MVC and MS SQL.
+          - Developed a tool for alerting the ATM/POS System outage.
+    
+    - role: Software Developer
       time: Feb 2011 - Jan 2013
       company: Vertex Systems
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Worked as a software developer on Attendance and Visitor Managemnt products in a small organization.
+          - Developed couple of products in ASP.Net and SQL for multiple clients.
+          - Worked on maintenance and enhancement of few products.
+          - Was involved in deployment. 
+          
 projects:
     title: Projects
     intro: >
