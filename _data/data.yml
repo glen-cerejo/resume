@@ -89,17 +89,12 @@ experiences:
       time: Apr 2018 - Present
       company: Tata Consultancy Services
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+        Lead developer in an Agile team spread across the gloab, which works on delivering Innovative digital solutions based on machine learning 
+            - Responsible for Architecture designing and development of Web Application.
+            - Worked on dotnet core, Angular
+            - Worked on Azure Serices like WebApp, Data Factory, Blob Storage, FunctionApp, Logic App
+            - Exposer on DevOps(CI/CD)
+        
     - role: Senior Software Developer
       time: Jan 2013 - Apr 2018
       company: Idealake Information Technologies Private Limited, Mumbai 
