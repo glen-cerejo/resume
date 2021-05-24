@@ -101,9 +101,10 @@ experiences:
       company: Idealake Information Technologies Private Limited
       details: |
         Worked as a Senior Software developer in a team to develop multiple websites.
-          - Developed websites for few Mutual Funds and Insurance companies using a CMS (Sitefinity), ASP.Net MVC and SQL.
-          - Integration with payment gateways.
-          - Integration with CAMS for Mutual Fund websites. 
+          - Worked with team on development of websites for few Mutual Funds , Insurance, Real Estate and Film making companies using a CMS (Sitefinity), ASP.Net MVC and SQL.
+          - Was involved in integration with payment gateways.
+          - Was involved in integration with CAMS API for Mutual Fund websites.
+          - Conducted Training sessions to up skill the team on technologies like MVC, EF, Angular and Sitefinity.
                     
     - role: Software Developer
       time: Sep 2016 - Jan 2017
@@ -118,9 +119,9 @@ experiences:
       company: Vertex Systems
       details: |
         Worked as a software developer on Attendance and Visitor Management  products in a small organization.
-          - Developed couple of products in ASP.Net and SQL for multiple clients.
-          - Worked on maintenance and enhancement of few products.
-          - Was involved in deployment. 
+          - Developed products for Attendance and Visitor management in ASP.Net and SQL for multiple clients.
+          - Worked on maintenance and enhancement of existing products.
+          - Was involved in requirement gathering, demoing the application, deployment and training the users. 
           
 
 
@@ -135,19 +136,19 @@ skills:
         level: 98%
 
       - name: Angular
-        level: 78%
+        level: 70%
 
       - name: JavaScript and jQuery
         level: 95%
 
-      - name: HTML & CSS
-        level: 80%
+      - name: HTML & CSS, Bootstrap
+        level: 60%
 
       - name: Azure
         level: 60%
 
       - name: Phthon
-        level: 30%
+        level: 10%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
