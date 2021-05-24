@@ -141,13 +141,13 @@ skills:
       - name: JavaScript and jQuery
         level: 95%
 
-      - name: HTML & CSS, Bootstrap
+      - name: HTML, CSS and Bootstrap
         level: 60%
 
       - name: Azure
         level: 60%
 
-      - name: Phthon
+      - name: Python
         level: 10%
 
 footer: >
