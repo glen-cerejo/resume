@@ -1,0 +1,16 @@
+{% assign address = site.data.data.sidebar.address %}
+{% if address %}
+<div class="address-container container-block">
+
+  <h2 class="container-block-title">
+    Address
+  </h2>
+
+  <ul class="list-unstyled interests-list">
+    <li>
+      {{ address }}
+    </li>
+  </ul>
+
+</div><!--//interests-->
+{% endif %}
